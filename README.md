@@ -1,5 +1,5 @@
 # css3-collection
-CSS动效集锦
+CSS动效集锦。UI展示朴实，望理解
 ## 近大远小
 ![Image text](https://github.com/penghuwan/css3-collection/blob/master/demoImage/ball.gif)
 
